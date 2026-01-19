@@ -22,3 +22,4 @@ This project was built to strengthen core JavaScript skills, especially DOM mani
 
 ## 👨‍💻 Author
 Amit
+
